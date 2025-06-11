@@ -1,6 +1,7 @@
-![Banner](https://raw.githubusercontent.com/erlingdevold/erlingdevold/main/assets/banner.png)
-
 # Hi, I'm Erling Devold 👋
+
+![Banner](./assets/banner.png)
+
 
 I'm a machine learning researcher and engineer, passionate about building intelligent systems that learn from limited supervision.  
 Currently focused on weakly supervised representation learning for sonar data.
