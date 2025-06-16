@@ -49,4 +49,4 @@ Currently focused on weakly supervised representation learning for sonar data.
 
 ---
 
-> “Do not go gentle into that good night. -Dylan Thomas”
+> “live every week like it's shark week. - Tracy Jordan, 30 Rock”
