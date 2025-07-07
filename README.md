@@ -46,7 +46,3 @@ Currently focused on weakly supervised representation learning for sonar data.
 - [LinkedIn](https://linkedin.com/in/erlingdevold)  
 - [Website](https://erlingdevold.github.io)  
 - `erling.devold@icloud.com`
-
----
-
-> “live every week like it's shark week. - Tracy Jordan, 30 Rock”
