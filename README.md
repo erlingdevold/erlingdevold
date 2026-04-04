@@ -2,16 +2,6 @@
 
 
 ---
-
-## 🔧 Tools & Technologies
-
-**ML & Vision** — PyTorch - DINOv2 - BioCLIP - Hugging Face - Graph Neural Networks  
-**Data & Infra** — FastAPI - Qdrant - Modal - Cloudflare R2 - Docker  
-**Languages** — Python - Swift - LaTeX  
-**Domains** — Computational Pathology - Marine Acoustics - Aquaculture Monitoring
-
----
-
 ## 📌 Projects
 
 - 🔬 **EchoFlow**  
@@ -24,8 +14,8 @@
 ---
 
 ## 🌱 Currently
-
 - Parental Leave
+  
 ---
 
 ## 🧭 Background
