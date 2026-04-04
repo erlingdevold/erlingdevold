@@ -1,6 +1,5 @@
 # Hi, I'm Erling Devold 👋
 
-![Banner](./assets/banner.png)
 
 ---
 
